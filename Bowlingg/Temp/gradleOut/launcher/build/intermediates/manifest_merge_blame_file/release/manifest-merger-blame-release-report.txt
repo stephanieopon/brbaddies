@@ -8,156 +8,156 @@
 8
 9    <uses-sdk
 10        android:minSdkVersion="23"
-10-->/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+10-->/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
 11        android:targetSdkVersion="30" />
-11-->/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+11-->/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
 12
 13    <supports-screens
-13-->/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:3-163
+13-->/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:3-163
 14        android:anyDensity="true"
-14-->/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:135-160
+14-->/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:135-160
 15        android:largeScreens="true"
-15-->/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:78-105
+15-->/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:78-105
 16        android:normalScreens="true"
-16-->/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:49-77
+16-->/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:49-77
 17        android:smallScreens="true"
-17-->/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:21-48
+17-->/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:21-48
 18        android:xlargeScreens="true" />
-18-->/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:106-134
+18-->/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:106-134
 19
 20    <uses-feature android:glEsVersion="0x00030000" />
-20-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-54
-20-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:19-51
+20-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-54
+20-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:19-51
 21
 22    <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
-22-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:16:5-79
-22-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:16:26-76
+22-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:16:5-79
+22-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:16:26-76
 23
 24    <uses-permission android:name="android.permission.INTERNET" />
-24-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-67
-24-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:22-64
+24-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-67
+24-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:22-64
 25
 26    <uses-feature
-26-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:20:5-22:36
+26-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:20:5-22:36
 27        android:name="android.hardware.touchscreen"
-27-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:21:9-52
+27-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:21:9-52
 28        android:required="false" />
-28-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:9-33
+28-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:9-33
 29    <uses-feature
-29-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:23:5-25:36
+29-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:23:5-25:36
 30        android:name="android.hardware.touchscreen.multitouch"
-30-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:24:9-63
+30-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:24:9-63
 31        android:required="false" />
-31-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-33
+31-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-33
 32    <uses-feature
-32-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:5-28:36
+32-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:5-28:36
 33        android:name="android.hardware.touchscreen.multitouch.distinct"
-33-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:9-72
+33-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:9-72
 34        android:required="false" />
-34-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-33
+34-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-33
 35    <uses-feature
-35-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:29:5-32:31
+35-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:29:5-32:31
 36        android:name="android.hardware.vr.headtracking"
-36-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:9-56
+36-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:9-56
 37        android:required="true"
-37-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:9-32
+37-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:9-32
 38        android:version="1" />
-38-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:9-28
+38-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:9-28
 39
 40    <application
-40-->/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:3-116
+40-->/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:3-116
 41        android:extractNativeLibs="true"
-41-->/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:16-48
+41-->/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:16-48
 42        android:icon="@mipmap/app_icon"
-42-->/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:82-113
+42-->/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:82-113
 43        android:label="@string/app_name" >
-43-->/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:49-81
+43-->/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:49-81
 44        <activity
-44-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:9-56:20
+44-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:9-56:20
 45            android:name="com.unity3d.player.UnityPlayerActivity"
-45-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-66
+45-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-66
 46            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|uiMode"
-46-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-114
+46-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-114
 47            android:hardwareAccelerated="false"
-47-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-48
+47-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-48
 48            android:launchMode="singleTask"
-48-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-44
+48-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-44
 49            android:resizeableActivity="false"
-49-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-47
+49-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-47
 50            android:screenOrientation="landscape"
-50-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-50
+50-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-50
 51            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
-51-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:13-77
+51-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:13-77
 52            <intent-filter>
-52-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:43:13-48:29
+52-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:43:13-48:29
 53                <action android:name="android.intent.action.MAIN" />
-53-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:17-69
-53-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:25-66
+53-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:17-69
+53-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:25-66
 54
 55                <category android:name="android.intent.category.LAUNCHER" />
-55-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:17-77
-55-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:27-74
+55-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:17-77
+55-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:27-74
 56                <category android:name="com.oculus.intent.category.VR" />
-56-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:17-74
-56-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:27-71
+56-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:17-74
+56-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:27-71
 57            </intent-filter>
 58
 59            <meta-data
-59-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:13-52:40
+59-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:13-52:40
 60                android:name="unityplayer.UnityActivity"
-60-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:51:17-57
+60-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:51:17-57
 61                android:value="true" />
-61-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:52:17-37
+61-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:52:17-37
 62            <meta-data
-62-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:13-55:40
+62-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:13-55:40
 63                android:name="com.oculus.vr.focusaware"
-63-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:17-56
+63-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:17-56
 64                android:value="true" />
-64-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:17-37
+64-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:17-37
 65        </activity>
 66
 67        <meta-data
-67-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:9-60:33
+67-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:9-60:33
 68            android:name="unity.splash-mode"
-68-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-45
+68-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-45
 69            android:value="0" />
-69-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:13-30
+69-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:13-30
 70        <meta-data
-70-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:9-63:36
+70-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:9-63:36
 71            android:name="unity.splash-enable"
-71-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:13-47
+71-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:13-47
 72            android:value="True" />
-72-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:13-33
+72-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:13-33
 73        <meta-data
-73-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:9-66:37
+73-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:9-66:37
 74            android:name="unity.allow-resizable-window"
-74-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:65:13-56
+74-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:65:13-56
 75            android:value="False" />
-75-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:13-34
+75-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:13-34
 76        <meta-data
-76-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:9-69:68
+76-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:9-69:68
 77            android:name="unity.build-id"
-77-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:68:13-42
-78            android:value="555f6050-77b0-4109-90db-4c98a671a20a" />
-78-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:69:13-65
+77-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:68:13-42
+78            android:value="8c426a68-8d5b-4ebb-ae53-7c688ba84b11" />
+78-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:69:13-65
 79        <meta-data
-79-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:70:9-72:39
+79-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:70:9-72:39
 80            android:name="com.samsung.android.vr.application.mode"
-80-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:71:13-67
+80-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:71:13-67
 81            android:value="vr_only" />
-81-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:72:13-36
+81-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:72:13-36
 82        <meta-data
-82-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:73:9-75:37
+82-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:73:9-75:37
 83            android:name="com.unity.xr.oculus.LowOverheadMode"
-83-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:74:13-63
+83-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:74:13-63
 84            android:value="false" />
-84-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:75:13-34
+84-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:75:13-34
 85        <meta-data
-85-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:76:9-78:44
+85-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:76:9-78:44
 86            android:name="com.oculus.supportedDevices"
-86-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:77:13-55
+86-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:77:13-55
 87            android:value="quest|quest2" />
-87-->[:unityLibrary] /Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:78:13-41
+87-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:78:13-41
 88    </application>
 89
 90</manifest>

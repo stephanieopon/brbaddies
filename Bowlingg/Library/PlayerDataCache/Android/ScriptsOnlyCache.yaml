@@ -1,5 +1,9 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp-Editor.dll:
+    - ReadmeEditor
+    Assembly-CSharp.dll:
+    - Readme
     Unity.InputSystem.dll:
     - UnityEngine.InputSystem.InputActionAsset
     - UnityEngine.InputSystem.InputActionReference
@@ -133,6 +137,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 104
@@ -236,23 +244,23 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6888}
     - Class: 114
-      Script: {instanceID: 7042}
+      Script: {instanceID: 7044}
     - Class: 114
-      Script: {instanceID: 7176}
+      Script: {instanceID: 7178}
     - Class: 114
-      Script: {instanceID: 7194}
+      Script: {instanceID: 7196}
     - Class: 114
-      Script: {instanceID: 7230}
+      Script: {instanceID: 7232}
     - Class: 114
-      Script: {instanceID: 7856}
+      Script: {instanceID: 7858}
     - Class: 114
-      Script: {instanceID: 7922}
+      Script: {instanceID: 7924}
     - Class: 114
-      Script: {instanceID: 8204}
+      Script: {instanceID: 8206}
     - Class: 114
-      Script: {instanceID: 8252}
+      Script: {instanceID: 8254}
     - Class: 114
-      Script: {instanceID: 8508}
+      Script: {instanceID: 8510}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -1602,6 +1610,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.XR.OpenXR.Features.OculusQuestSupport.dll
     namespaceName: UnityEngine.XR.OpenXR.Features.OculusQuestSupport
     className: OculusQuestFeature
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BowlingBallController
   - hash:
       serializedVersion: 2
       Hash: 8220b46879dc5e37db1b940c938f5744

@@ -1,27 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/res/values/strings.xml",
+                    "source": "/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/res/values/ids.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "53,97",
-                        "endColumns": "43,65",
-                        "endOffsets": "94,160"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
                     },
                     "to": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "101,147",
-                        "endColumns": "45,67",
-                        "endOffsets": "142,210"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
                     }
                 },
                 {
-                    "source": "/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/res/values/styles.xml",
+                    "source": "/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "5,2,7",
                         "startColumns": "0,0,0",
@@ -40,20 +40,20 @@
                     }
                 },
                 {
-                    "source": "/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/res/values/ids.xml",
+                    "source": "/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "46",
-                        "endOffsets": "97"
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "53,97",
+                        "endColumns": "43,65",
+                        "endOffsets": "94,160"
                     },
                     "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "45",
-                        "endOffsets": "96"
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "101,147",
+                        "endColumns": "45,67",
+                        "endOffsets": "142,210"
                     }
                 }
             ]

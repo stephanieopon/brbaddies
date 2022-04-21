@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v28/values-v28.xml",
+            "outputFile": "/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "/Users/stephanieopon/Desktop/Bowlingg/Temp/gradleOut/launcher/src/main/res/values-v28/styles.xml",
+                    "source": "/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/src/main/res/values-v28/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "2",
