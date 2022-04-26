@@ -1,4 +1,4 @@
-#Thu Apr 21 15:45:55 CDT 2022
+#Tue Apr 26 16:11:11 CDT 2022
 base.0=/Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

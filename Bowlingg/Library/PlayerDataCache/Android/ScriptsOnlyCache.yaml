@@ -1,9 +1,8 @@
 ScriptsOnlyBuild:
   usedScripts:
-    Assembly-CSharp-Editor.dll:
-    - ReadmeEditor
     Assembly-CSharp.dll:
-    - Readme
+    - BowlingBallController
+    - PinController
     Unity.InputSystem.dll:
     - UnityEngine.InputSystem.InputActionAsset
     - UnityEngine.InputSystem.InputActionReference
@@ -244,6 +243,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6888}
     - Class: 114
+      Script: {instanceID: 6904}
+    - Class: 114
       Script: {instanceID: 7044}
     - Class: 114
       Script: {instanceID: 7178}
@@ -261,6 +262,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 8254}
     - Class: 114
       Script: {instanceID: 8510}
+    - Class: 114
+      Script: {instanceID: 8592}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -1294,6 +1297,12 @@ ScriptsOnlyBuild:
     className: DebugUIHandlerCanvas
   - hash:
       serializedVersion: 2
+      Hash: 25fe5980da486d0c5d096eb9c87107e7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PinController
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.InputSystem.dll
     namespaceName: UnityEngine.InputSystem.EnhancedTouch
@@ -1612,7 +1621,7 @@ ScriptsOnlyBuild:
     className: OculusQuestFeature
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: 4f415b1681507b68949cc181e3bf6780
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: BowlingBallController
