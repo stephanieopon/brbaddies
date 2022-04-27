@@ -138,7 +138,7 @@
 76-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:9-69:68
 77            android:name="unity.build-id"
 77-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:68:13-42
-78            android:value="dc1a5529-1473-4f4a-af96-d41fcc8d3241" />
+78            android:value="f0a48f3f-8856-4350-8f98-2e5ff1d23c1e" />
 78-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:69:13-65
 79        <meta-data
 79-->[:unityLibrary] /Users/stephanieopon/Documents/GitHub/brbaddies/Bowlingg/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:70:9-72:39
