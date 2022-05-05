@@ -12,7 +12,7 @@
     <meta-data android:name="unity.splash-mode" android:value="0" />
     <meta-data android:name="unity.splash-enable" android:value="True" />
     <meta-data android:name="unity.allow-resizable-window" android:value="False" />
-    <meta-data android:name="unity.build-id" android:value="a21a2a36-b0ff-48b2-ac78-d79d20e55ddd" />
+    <meta-data android:name="unity.build-id" android:value="63fc0f45-af56-410d-81e3-2586c0d65c18" />
   </application>
   <uses-feature android:glEsVersion="0x00030000" />
   <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
