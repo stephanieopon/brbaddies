@@ -2,8 +2,8 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - BowlingBallController
+    - LoadScene
     - PinController
-    - Readme
     Unity.InputSystem.dll:
     - UnityEngine.InputSystem.InputActionAsset
     - UnityEngine.InputSystem.InputActionReference
@@ -49,6 +49,12 @@ ScriptsOnlyBuild:
     - UnityEngine.Rendering.Universal.XRSystemData
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    - TMPro.TextMeshProUGUI
     Unity.XR.CoreUtils.dll:
     - Unity.XR.CoreUtils.XROrigin
     Unity.XR.Interaction.Toolkit.Editor.dll:
@@ -61,6 +67,8 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.Interaction.Toolkit.LocomotionSystem
     - UnityEngine.XR.Interaction.Toolkit.TeleportationArea
     - UnityEngine.XR.Interaction.Toolkit.TeleportationProvider
+    - UnityEngine.XR.Interaction.Toolkit.UI.TrackedDeviceGraphicRaycaster
+    - UnityEngine.XR.Interaction.Toolkit.UI.XRUIInputModule
     - UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable
     - UnityEngine.XR.Interaction.Toolkit.XRInteractionManager
     - UnityEngine.XR.Interaction.Toolkit.XRInteractorLineVisual
@@ -98,6 +106,7 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
     UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
     - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.ContentSizeFitter
@@ -131,6 +140,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
     - Class: 54
       Script: {instanceID: 0}
     - Class: 64
@@ -162,111 +173,129 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1680}
     - Class: 114
-      Script: {instanceID: 1686}
+      Script: {instanceID: 2014}
     - Class: 114
-      Script: {instanceID: 1834}
+      Script: {instanceID: 2162}
     - Class: 114
-      Script: {instanceID: 2000}
+      Script: {instanceID: 2328}
     - Class: 114
-      Script: {instanceID: 2150}
+      Script: {instanceID: 2476}
     - Class: 114
-      Script: {instanceID: 2508}
+      Script: {instanceID: 2660}
     - Class: 114
-      Script: {instanceID: 2614}
+      Script: {instanceID: 2834}
     - Class: 114
-      Script: {instanceID: 3376}
+      Script: {instanceID: 2940}
     - Class: 114
-      Script: {instanceID: 3464}
+      Script: {instanceID: 3186}
     - Class: 114
-      Script: {instanceID: 3530}
+      Script: {instanceID: 3702}
     - Class: 114
-      Script: {instanceID: 3552}
+      Script: {instanceID: 3790}
     - Class: 114
-      Script: {instanceID: 3620}
+      Script: {instanceID: 3856}
     - Class: 114
-      Script: {instanceID: 3730}
+      Script: {instanceID: 3878}
     - Class: 114
-      Script: {instanceID: 3748}
+      Script: {instanceID: 3946}
     - Class: 114
-      Script: {instanceID: 3882}
+      Script: {instanceID: 4056}
     - Class: 114
-      Script: {instanceID: 4006}
+      Script: {instanceID: 4074}
     - Class: 114
-      Script: {instanceID: 4012}
+      Script: {instanceID: 4208}
     - Class: 114
-      Script: {instanceID: 4096}
+      Script: {instanceID: 4332}
     - Class: 114
-      Script: {instanceID: 4146}
+      Script: {instanceID: 4338}
     - Class: 114
-      Script: {instanceID: 4210}
+      Script: {instanceID: 4422}
     - Class: 114
-      Script: {instanceID: 4224}
+      Script: {instanceID: 4472}
     - Class: 114
-      Script: {instanceID: 4350}
+      Script: {instanceID: 4538}
     - Class: 114
-      Script: {instanceID: 4510}
+      Script: {instanceID: 4552}
     - Class: 114
-      Script: {instanceID: 4670}
+      Script: {instanceID: 4678}
     - Class: 114
-      Script: {instanceID: 5528}
+      Script: {instanceID: 4818}
     - Class: 114
-      Script: {instanceID: 5548}
+      Script: {instanceID: 4838}
     - Class: 114
-      Script: {instanceID: 5618}
+      Script: {instanceID: 4998}
     - Class: 114
-      Script: {instanceID: 5836}
+      Script: {instanceID: 5104}
     - Class: 114
-      Script: {instanceID: 5838}
+      Script: {instanceID: 5536}
     - Class: 114
-      Script: {instanceID: 5860}
+      Script: {instanceID: 5856}
     - Class: 114
-      Script: {instanceID: 6132}
+      Script: {instanceID: 5876}
     - Class: 114
-      Script: {instanceID: 6136}
+      Script: {instanceID: 5934}
     - Class: 114
-      Script: {instanceID: 6254}
+      Script: {instanceID: 5946}
     - Class: 114
-      Script: {instanceID: 6398}
+      Script: {instanceID: 6162}
     - Class: 114
-      Script: {instanceID: 6476}
+      Script: {instanceID: 6164}
     - Class: 114
-      Script: {instanceID: 6482}
+      Script: {instanceID: 6186}
     - Class: 114
-      Script: {instanceID: 6582}
+      Script: {instanceID: 6462}
     - Class: 114
-      Script: {instanceID: 6604}
+      Script: {instanceID: 6466}
     - Class: 114
-      Script: {instanceID: 6644}
+      Script: {instanceID: 6584}
     - Class: 114
-      Script: {instanceID: 6690}
+      Script: {instanceID: 6724}
     - Class: 114
-      Script: {instanceID: 6692}
+      Script: {instanceID: 6734}
     - Class: 114
-      Script: {instanceID: 6774}
+      Script: {instanceID: 6802}
     - Class: 114
-      Script: {instanceID: 6888}
+      Script: {instanceID: 6808}
     - Class: 114
-      Script: {instanceID: 6904}
+      Script: {instanceID: 6908}
     - Class: 114
-      Script: {instanceID: 7044}
+      Script: {instanceID: 6930}
     - Class: 114
-      Script: {instanceID: 7178}
+      Script: {instanceID: 6970}
     - Class: 114
-      Script: {instanceID: 7196}
+      Script: {instanceID: 7016}
     - Class: 114
-      Script: {instanceID: 7232}
+      Script: {instanceID: 7018}
     - Class: 114
-      Script: {instanceID: 7858}
+      Script: {instanceID: 7100}
     - Class: 114
-      Script: {instanceID: 7924}
+      Script: {instanceID: 7214}
     - Class: 114
-      Script: {instanceID: 8206}
+      Script: {instanceID: 7230}
     - Class: 114
-      Script: {instanceID: 8254}
+      Script: {instanceID: 7370}
     - Class: 114
-      Script: {instanceID: 8510}
+      Script: {instanceID: 7504}
     - Class: 114
-      Script: {instanceID: 8592}
+      Script: {instanceID: 7522}
+    - Class: 114
+      Script: {instanceID: 7558}
+    - Class: 114
+      Script: {instanceID: 8184}
+    - Class: 114
+      Script: {instanceID: 8250}
+    - Class: 114
+      Script: {instanceID: 8532}
+    - Class: 114
+      Script: {instanceID: 8580}
+    - Class: 114
+      Script: {instanceID: 8772}
+    - Class: 114
+      Script: {instanceID: 8840}
+    - Class: 114
+      Script: {instanceID: 8920}
+    - Class: 114
+      Script: {instanceID: 49334}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -364,7 +393,7 @@ ScriptsOnlyBuild:
     className: FreeCamera
   - hash:
       serializedVersion: 2
-      Hash: d8e2a52ca99d0258e884ab7d896395ea
+      Hash: 7146a680cd6a42f884a88a5305c13835
     assemblyName: Unity.XR.Oculus.dll
     namespaceName: Unity.XR.Oculus
     className: OculusSettings
@@ -478,7 +507,7 @@ ScriptsOnlyBuild:
     className: AdvancedDropdownWindow
   - hash:
       serializedVersion: 2
-      Hash: f1d735cc1a21c3704ab52568f4fbfcf8
+      Hash: 91d258529db2b5060a913f2afcea1a21
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools.TestRunner
     className: PlaymodeTestsController
@@ -1646,7 +1675,13 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LoadScene
   platform: 13
   scenePathNames:
   - Assets/Scenes/bowling.unity
-  playerPath: /Users/stephanieopon/Desktop/bowling.apk
+  playerPath: C:/Users/laric/Documents/school/brbaddies/aaaaaaaaaaaaaa.apk
